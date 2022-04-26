@@ -67,15 +67,15 @@
 
 //Exercicio 5
 
-//const nome = "Lais"
-//const idade = 23
-//const maiordeidade = true
-//const anode2050 = idade + 29
+const nome = "Lais"
+const idade = 23
+const maiordeidade = true
+const anode2050 = idade + 29
 
-//console.log ("Ola,", nome)
-//console.log ("Você tem", idade, "anos")
-//console.log ("Você é maior de idade ?", maiordeidade)
-//console.log ("Em 2050 você terá", anode2050)
+console.log ("Ola,", nome)
+console.log ("Você tem", idade, "anos")
+console.log ("Você é maior de idade ?", maiordeidade)
+console.log ("Em 2050 você terá", anode2050)
 
 //Exercicio 1 discord
 
@@ -106,10 +106,10 @@
 
 //Exercicio 4  discord
 
-const a = Number(prompt("Insira um numero"))
-const b = Number(prompt("Insira outro"))
+//const a = Number(prompt("Insira um numero"))
+//const b = Number(prompt("Insira outro"))
 
-console.log ("O primeiro número é maior que o segundo ?", a > b)
-console.log ("O primeiro numero é igual ao segundo ?", a === b)
-console.log ("O primeiro numero é divisível pelo segundo ?", a % b === 0)
-console.log ("O segundo numero é divisível pelo primeiro ?", b % a === 0)
+//console.log ("O primeiro número é maior que o segundo ?", a > b)
+//console.log ("O primeiro numero é igual ao segundo ?", a === b)
+//console.log ("O primeiro numero é divisível pelo segundo ?", a % b === 0)
+//console.log ("O segundo numero é divisível pelo primeiro ?", b % a === 0)
