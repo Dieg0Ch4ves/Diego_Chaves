@@ -1,0 +1,25 @@
+.intro {
+    color: green
+}
+
+.introd {
+    color: green;
+    text-shadow: 10ch;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.grande {
+    font-size: 20px;
+}
+
+.tamanho {
+    width :320px;
+    height :205px;
+}
+
+.negrito {
+    font-weight: bold;
+}
