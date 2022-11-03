@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    padding: none;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0%;
+}
+
+
+a {
+    color: #febe01;
+}
+.amarelo2 {
+    color: #332200;
+}
+
+.cinza {
+    color: #b2b2b2;
+}
+
+h2 {
+    color: white;
+    background: #111;
+    padding: 40px;
+    margin: 80px;
+    border-radius: 4px;
+}
+
+button {
+    color: #332200;
+    background-color: #febe01;
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+}
